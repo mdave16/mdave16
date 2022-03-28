@@ -2,7 +2,7 @@
 
 ### 🔍 About me
 
-- 👨‍💻 Full-Stack Software Engineer at eBay
+- 👨‍💻 Full-Stack Software Engineer at Ki Insurance
 - 🎓 Master of Maths from University of Warwick
 
 ### ⚡ Languages
