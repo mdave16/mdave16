@@ -2,7 +2,7 @@
 
 ### 🔍 About me
 
-- 👨‍💻 Full-Stack Software Engineer at Ki Insurance
+- 👨‍💻 Software Engineer at Dojo
 - 🎓 Master of Maths from University of Warwick
 
 ### ⚡ Languages
